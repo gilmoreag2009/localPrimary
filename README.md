@@ -1,4 +1,4 @@
-Threw this together as a quick and dirty way to lock down the SAP Privleges App to a single user.
+Threw this together as a quick and dirty way to lock down the SAP Privileges App to a single user.
 
 
 addToAdminGroup.sh - Can be deployed via Jamf Self Service or run locally to add logged in user to to the  _localPrimaryUser group.
